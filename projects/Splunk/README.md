@@ -29,6 +29,8 @@ This project focuses on building hands-on experience with Splunk: ingesting secu
 - Search Macro 
 ![Search Macro](./screenshots/first_search_macro.png)
 
+- Dashboard of Host authentication attempts and Succenssful logins over time
+![Dashboard](./screenshots/authentication_attempts.png)
 ---
 
 ## Next Steps
