@@ -24,9 +24,9 @@ This project focuses on building hands-on experience with Splunk: ingesting secu
 ---
 ## Examples
 
-- Identified the TCP 3-way handshake in packet traces 
+- First index 
 ![First index upload](./screenshots/first_index_upload.png)
-- Traced DNS request/response flows
+- Search Macro 
 ![Search Macro](./screenshots/first_search_macro.png)
 
 ---
