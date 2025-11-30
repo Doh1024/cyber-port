@@ -1,6 +1,9 @@
 # Splunk SIEM Lab
 
-This project focuses on building hands-on experience with Splunk: ingesting security logs, creating advanced correlation searches, building interactive dashboards, and configuring detection alerts. The goal was to simulate real SOC analyst workflows using a highly realistic, open-source dataset.
+Author: Your Name  
+Date: 2025-11-26  
+
+This project showcases hands‑on experience using Splunk as a SIEM to ingest logs, hunt for threats, and build visual detections. The goal was to simulate real SOC analyst workflows using the BOTSv3 dataset and practice writing SPL, building dashboards, and configuring alerts.
 
 ---
 
@@ -31,9 +34,34 @@ This project focuses on building hands-on experience with Splunk: ingesting secu
 
 - Dashboard of Host authentication attempts and Succenssful logins over time
 ![Dashboard](./screenshots/authentication_attempts.png)
+
 ---
 
 ## Next Steps
 * Integrate the BOTS AD logs (DC logs) to build more comprehensive user activity baselines.
 * Build a **Security Incident Dashboard** for monitoring the health of all configured alerts and key security metrics.
 * Try creating a correlation search to track a user's activity across multiple log types (e.g., login, web activity, and file modification) using the **`join`** command.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
