@@ -1,6 +1,6 @@
 # Wireshark Packet Analysis
 
-Author: Your Name  
+Author: Doh Kim
 Date: 2025-11-24  
 
 This project highlights my hands-on practice with Wireshark, focusing on capturing and analyzing network traffic in a controlled lab environment. The goal was to learn how to navigate the interface, apply filters, understand traffic patterns, and use built-in analysis tools.

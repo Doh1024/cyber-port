@@ -1,6 +1,6 @@
 # Nmap Metasploitable 2 Vulnerability Assessment & Exploitation Lab
 
-Author: Your Name  
+Author: Doh Kim
 Date: 2025-11-29  
 Targets:  
 - Attacker: Kali Linux VM (10.10.30.101)  

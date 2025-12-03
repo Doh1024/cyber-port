@@ -1,6 +1,6 @@
 # Splunk SIEM Log Analysis & Detection Engineering Lab
 
-Author: Your Name
+Author: Doh Kim
 Date: 2025-12-02
 Dataset:
 

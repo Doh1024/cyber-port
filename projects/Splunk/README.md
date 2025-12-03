@@ -1,6 +1,6 @@
 # Splunk SIEM Lab
 
-Author: Your Name  
+Author: Doh Kim 
 Date: 2025-11-26  
 
 This project showcases hands‑on experience using Splunk as a SIEM to ingest logs, hunt for threats, and build visual detections. The goal was to simulate real SOC analyst workflows using the BOTSv3 dataset and practice writing SPL, building dashboards, and configuring alerts.
