@@ -1,7 +1,7 @@
 # Project Report: Active Directory & GPO Security Lab
 
-Author: Doh Kim
-Date: 2025-12-17
+*Author: Doh Kim
+*Date: 2025-12-17
 
 **Domain:** `dohkim.local`  
 **Environment:** Windows Server 2019/2022 (Domain Controller) & Windows 10 Pro (Client)
