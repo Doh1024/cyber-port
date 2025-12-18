@@ -152,12 +152,12 @@ dohkim.local
 | Desktop Wallpaper | Users     | Visual check / settings | Forced; settings greyed out    |
 | Removable Storage | Computers | Mounted ISO/USB         | Access denied                  |
 
-![Password Policy GPO](./password%20policy%20gpo.png)
-![Account Lockout GPO](./account%20lockout%20gpo.png)
-![Drive Mapping GPO 1](./drive%20mapping%20gpo%201.png)
-![Drive Mapping GPO 2](./drive%20mapping%20gpo%202.png)
-![Desktop Wallpaper GPO](./wallpaper%20gpo.png)
-![Removable Storage](./removable%20storage%20gpo.png)
+![Password Policy GPO](./screenshots/password%20policy%20gpo.png)
+![Account Lockout GPO](./screenshots/account%20lockout%20gpo.png)
+![Drive Mapping GPO 1](./screenshots/drive%20mapping%20gpo%201.png)
+![Drive Mapping GPO 2](./screenshots/drive%20mapping%20gpo%202.png)
+![Desktop Wallpaper GPO](./screenshots/wallpaper%20gpo.png)
+![Removable Storage](./screenshots/removable%20storage%20gpo.png)
 
 ---
 
@@ -222,16 +222,16 @@ Lockout threshold: Never
 
 * `screenshots/`
 
-![Structure](./structure.png)
-![user GPOs](./user%20gpos.png)
-![computer GPOs](./usb%20gpo.png)
-![Drive mapping](./Drive%20Mapping.png)
-![gpresult](./gpresult.png)
-![Removable Devices](./Removable%20Storage%20Access.png)
-![password policy](./Password%20Policy.png)
-![account lockout](./Account%20Lock%20Out.png)
-![Client PC -> USA](./moving%20client%20pc%20to%20USA.png)
-![Wallpaper policy](./Desktop%20Wallpaper.png)
+![Structure](./screenshots/structure.png)
+![user GPOs](./screenshots/user%20gpos.png)
+![computer GPOs](./screenshots/usb%20gpo.png)
+![Drive mapping](./screenshots/Drive%20Mapping.png)
+![gpresult](./screenshots/gpresult.png)
+![Removable Devices](./screenshots/Removable%20Storage%20Access.png)
+![password policy](./screenshots/Password%20Policy.png)
+![account lockout](./screenshots/Account%20Lock%20Out.png)
+![Client PC -> USA](./screenshots/moving%20client%20pc%20to%20USA.png)
+![Wallpaper policy](./screenshots/Desktop%20Wallpaper.png)
 ---
 
 ## 10. Technical Skills Demonstrated
